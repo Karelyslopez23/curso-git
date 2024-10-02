@@ -1,3 +1,1 @@
-curso
-pratico
-git
+commites de prova
