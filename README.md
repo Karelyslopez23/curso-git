@@ -1,2 +1,3 @@
-testando
-texto
+curso
+pratico
+git
